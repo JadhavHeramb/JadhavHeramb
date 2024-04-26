@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/herby21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/herby21/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/FMrCdaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FMrCdaev" height="30" width="40" /></a>
 </p>
 
