@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Heramb Jadhav</h1>
-<h3 align="center">Driven by passion, powered by Java</h3>
+<h1 align="center"> <img align="center" alt="Coding" width="80" src="https://cliply.co/wp-content/uploads/2021/08/472108440_HELLO_STICKER_400px.gif">, I'm Heramb Jadhav</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
-- 🔭 I’m currently working on **Project on Book Store management**
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&pause=1000&color=624A74&random=false&width=435&lines=Driven+by+passion%2C+powered+by+Java;Java+Backend+Developer" alt="Typing SVG" /></a>
+<img align="right" alt="Coding" width="400" src="https://blog.lootcrate.com/wp-content/uploads/2018/08/rm_gc_8.gif">
+
+- 🔭 I’m currently working on **a Project on Book Store management**
 
 - 💬 Ask me about **Java, Springboot**
 
