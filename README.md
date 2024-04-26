@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heramb Jadhav</h1>
 <h3 align="center">Driven by passion, powered by Java</h3>
 
-<img align="right" alt="Coding" width="400" src="https://y.yarn.co/acc16514-c35a-4aac-b0a1-99167f19531c_text.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
 
 - 🔭 I’m currently working on **Project on Book Store management**
 
