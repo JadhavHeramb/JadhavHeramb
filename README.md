@@ -24,7 +24,7 @@
         </a>
     </div>
     <div>
-        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JadhavHeramb&show_icons=true&locale=en" alt="JadhavHeramb" /></p>
+        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jadhavheramb&show_icons=true&locale=en" alt="JadhavHeramb" /></p>
     </div>
 </div>
 
