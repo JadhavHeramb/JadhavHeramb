@@ -20,11 +20,11 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
     <div>
         <a href="https://github.com/JadhavHeramb">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JadhavHeramby&hide=&theme=algolia&show_icons=true" alt="Heramb Jadhav's GitHub stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JadhavHeramb&hide=&theme=algolia&show_icons=true" alt="Heramb Jadhav's GitHub stats">
         </a>
     </div>
     <div>
-        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jadhavheramb&show_icons=true&locale=en" alt="JadhavHeramb" /></p>
+        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JadhavHeramb&show_icons=true&locale=en" alt="JadhavHeramb" /></p>
     </div>
 </div>
 
