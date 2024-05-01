@@ -19,12 +19,12 @@
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
     <div>
-        <a href="https://github.com/ItzmeHerby">
+        <a href="https://github.com/JadhavHeramb">
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItzmeHerby&hide=&theme=algolia&show_icons=true" alt="Heramb Jadhav's GitHub stats">
         </a>
     </div>
     <div>
-        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=itzmeherby&show_icons=true&locale=en" alt="itzmeherby" /></p>
+        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=JadhavHeramb&show_icons=true&locale=en" alt="JadhavHeramb" /></p>
     </div>
 </div>
 
