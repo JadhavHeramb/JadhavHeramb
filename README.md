@@ -20,7 +20,7 @@
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
     <div>
         <a href="https://github.com/JadhavHeramb">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItzmeHerby&hide=&theme=algolia&show_icons=true" alt="Heramb Jadhav's GitHub stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JadhavHeramby&hide=&theme=algolia&show_icons=true" alt="Heramb Jadhav's GitHub stats">
         </a>
     </div>
     <div>
